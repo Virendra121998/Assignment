@@ -1,0 +1,83 @@
+.form-city{
+  display: flex;
+  flex-flow:row;
+  text-align:center;
+  justify-content: space-around;
+}
+
+.form1{
+  display: block;
+  padding: 10px;
+  margin:20px;
+  border: 2px solid black;
+  width: 40%;
+  background-color: rgb(195, 199, 202);
+}
+.form1-select1{
+ display: block;
+ margin: 10px;
+ padding: 5px;
+}
+.form1-select1 label{
+ 
+ margin: 10px;
+ font-weight: bold;
+}
+.form1-select1 select{
+  margin-left: 5px;
+  width: 60%;
+  height: 30px;
+}
+.form1-select2{
+  display: block;
+  margin: 10px;
+  padding: 5px;
+}
+.form1-select2 label{
+ margin: 10px;
+ font-weight: bold;
+}
+.form1-select2 select{
+  width: 60%;
+  height:30px;
+}
+.form1 button{
+  margin: 20px;
+  padding: 5px;
+  text-align: center;
+  color:chocolate;
+  font-weight: bold;
+  cursor: pointer;
+  border: 1px solid black; 
+  width: 20%;
+}
+.form2{
+  display: block;
+  width: 40%;
+  margin: 10px;
+  padding: 20px;
+  border:2px solid black;
+  background-color: rgb(195, 199, 202);
+}
+.form2-select{
+  display: block;
+  margin: 10px;
+  padding: 2px;
+}
+.form2-select label{
+  font-weight: bold;
+  margin: 20px;
+}
+.form2-select select{
+  width: 60%;
+  height:30px;
+
+}
+.form2 button{
+  margin-top: 75px;
+  width: 20%;
+  border: 1px solid black;
+  font-weight: bold;
+  color: chocolate;
+}
+
